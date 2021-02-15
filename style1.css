@@ -1,0 +1,41 @@
+body{
+    background-color:yellow ;
+}
+.entete{
+    background-color: blue;
+    height: 100px;
+   
+}
+.slider{
+    background-color: burlywood;
+    height: 100px;
+    
+    display: none;
+}
+
+aside{
+    background-color: crimson;
+    
+    height: 120px;
+}
+   
+section{
+    background-color: violet;
+    
+    height: 100px;
+    
+}
+
+footer{
+    
+}
+.infos{
+    background-color: pink;
+    
+    height: 40px;
+}
+.mentions{
+    background-color: darkgreen;
+   
+    height: 50px;
+}

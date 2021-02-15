@@ -1,0 +1,38 @@
+body{
+    background-color: chartreuse;
+}
+.entete{
+    background-color: blue;
+    height: 70px;
+    width: 100%;
+}
+.slider{
+    background-color: burlywood;
+    height: 100px;
+    width: 100%;
+}
+
+aside{
+    background-color: crimson;
+    width: 40%;
+    height: 100px;
+    float:left;
+}
+section{
+    background-color: violet;
+    width: 60%;
+    height: 100px;
+    float: left;
+}
+
+footer{
+    clear:both;
+}
+.infos{
+    background-color: pink;
+    width: 100%;
+    height: 50px;
+}
+footer .mentions{
+    background-color: mediumseagreen;
+}

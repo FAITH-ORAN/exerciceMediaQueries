@@ -1,0 +1,40 @@
+body{
+    background-color: brown;
+}
+.entete{
+    background-color: blue;
+    height: 70px;
+    ;
+}
+.slider{
+    background-color: burlywood;
+    height: 100px;
+   ;
+}
+
+aside{
+    background-color: crimson;
+    ;
+    height: 40px;
+    
+}
+section{
+    background-color: violet;
+   
+    height: 55px;
+   
+}
+
+footer{
+    
+}
+.infos{
+    background-color: pink;
+    ;
+    height: 55px;
+}
+.mentions{
+    background-color:darkgreen;
+    width: 100%;
+    height: 40px;
+}
