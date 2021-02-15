@@ -4,33 +4,24 @@ body{
 .entete{
     background-color: blue;
     height: 70px;
-    ;
 }
 .slider{
     background-color: burlywood;
     height: 100px;
-   ;
 }
 
 aside{
     background-color: crimson;
-    ;
     height: 40px;
-    
 }
 section{
     background-color: violet;
-   
     height: 55px;
-   
 }
 
-footer{
-    
-}
+
 .infos{
     background-color: pink;
-    ;
     height: 55px;
 }
 .mentions{
